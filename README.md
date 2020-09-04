@@ -15,7 +15,7 @@ $ apt upgrade
 
 $ pkg install git 
 
-$ git clone 
+$ git clone https://github.com/tigerhackmalayalam/geo-locator.git
 
 $ cd geo-locator
 
